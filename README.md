@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Stats -->
-[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sobrinhoanac&show_icons=true&title_color=ff76c7&text_color=fff&icon_color=ffc2e6&bg_color=000&include_all_commits=true&count_private=true"/>](https://github.com/barbarasobrinho)
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barbarasobrinho&show_icons=true&title_color=ff76c7&text_color=fff&icon_color=ffc2e6&bg_color=000&include_all_commits=true&count_private=true"/>](https://github.com/barbarasobrinho)
   
 ##
 
