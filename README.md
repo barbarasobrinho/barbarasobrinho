@@ -1,3 +1,5 @@
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 ## Welcome to my profile! <img alt="Cute Cat Gif" height="50" width="50" src="https://media.tenor.com/images/d1c694e260cfef6fc7e3b2d733701e25/tenor.gif">
 
 <!-- Profile Info -->
@@ -43,3 +45,5 @@
 [<img src="https://img.shields.io/badge/PayPal-000?style=for-the-badge&logo=pandora&logoColor=ff76c7" target="_blank"/>](https://www.paypal.com/donate/?hosted_button_id=LR7VQ7J5U4PMY)
 
 <img align="center" alt="Bárbara Sobrinho Logo" height="334" width="519" src="bs_logo.png">
+
+![Snake animation](https://github.com/barbarasobrinho/barbarasobrinho/blob/output/github-contribution-grid-snake.svg)
