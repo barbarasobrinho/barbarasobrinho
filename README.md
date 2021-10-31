@@ -48,4 +48,4 @@
 
 <img align="center" alt="Bárbara Sobrinho Logo" height="334" width="519" src="bs_logo.png">
 
-![Snake Animation](https://github.com/barbarasobrinho/barbarasobrinho/raw/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/barbarasobrinho/barbarasobrinho/blob/output/github-contribution-grid-snake.svg)
