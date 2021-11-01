@@ -1,6 +1,7 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+[<img alt="Super Mario Gif" width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">](https://github.com/barbarasobrinho)
 
-## Welcome to my profile!
+##
+<br/>
 
 <!-- Profile Info -->
 - 📚 I'm currently studying Web Development & Multimedia at IPLeiria
@@ -12,10 +13,8 @@
 
 <br/>
 
-<img alt="Cute Cat Gif" height="50" width="50" src="https://media.tenor.com/images/d1c694e260cfef6fc7e3b2d733701e25/tenor.gif">
-
 <!-- Profile Stats -->
-[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barbarasobrinho&show_icons=true&title_color=ff76c7&text_color=fff&icon_color=ffc2e6&bg_color=000&include_all_commits=true&count_private=true"/>](https://github.com/barbarasobrinho)
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barbarasobrinho&show_icons=true&title_color=ff76c7&text_color=fff&icon_color=ffc2e6&bg_color=000&include_all_commits=true&count_private=true"/>](https://github.com/barbarasobrinho) <img alt="Cute Cats Gif" height="200" width="200" src="https://i0.wp.com/i.ya-webdesign.com/images/cute-cats-png-gifs-3.gif">
   
 ##
 
@@ -45,7 +44,5 @@
 <!-- Support Links -->
 [<img src="https://img.shields.io/badge/PicPay-000?style=for-the-badge&logo=picpay&logoColor=ff76c7" target="_blank"/>](https://app.picpay.com/user/barbarasobrinho)
 [<img src="https://img.shields.io/badge/PayPal-000?style=for-the-badge&logo=pandora&logoColor=ff76c7" target="_blank"/>](https://www.paypal.com/donate/?hosted_button_id=LR7VQ7J5U4PMY)
-
-<img align="center" alt="Bárbara Sobrinho Logo" height="334" width="519" src="bs_logo.png">
 
 ![Snake Animation](https://github.com/barbarasobrinho/barbarasobrinho/blob/output/github-contribution-grid-snake.svg)
