@@ -4,9 +4,9 @@
 <br/>
 
 <!-- Profile Info -->
-- 📚 I'm currently studying Web Development & Multimedia at IPLeiria
+- 🎓 Web Development & Multimedia at IPLeiria
 - 🔭 Full-Stack Web Developer
-- 🌱 I’m currently learning Tailwind CSS & Alpine Js
+- 📚 I’m currently learning Tailwind CSS & Alpine Js
 - 👩🏻‍💻 Some of my projects are also available at CodePen
 - 🤪 Fun fact: I stream on Twitch 🎮
 - 🎯 2021 Goals: Improve my grades! 🤓
@@ -35,14 +35,6 @@
 #### Follow me:
 
 <!-- Social Links -->
-[<img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=Twitter&logoColor=ff76c7" target="_blank"/>](https://www.twitter.com/follow/babsobrinho)
-[<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=ff76c7" target="_blank"/>](https://www.instagram.com/follow/babsobrinho)
 [<img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=Twitch&logoColor=ff76c7" target="_blank"/>](https://www.twitch.tv/babsobrinho)
-
-#### Support me:
-
-<!-- Support Links -->
-[<img src="https://img.shields.io/badge/PicPay-000?style=for-the-badge&logo=picpay&logoColor=ff76c7" target="_blank"/>](https://app.picpay.com/user/barbarasobrinho)
-[<img src="https://img.shields.io/badge/PayPal-000?style=for-the-badge&logo=pandora&logoColor=ff76c7" target="_blank"/>](https://www.paypal.com/donate/?hosted_button_id=LR7VQ7J5U4PMY)
 
 ![Snake Animation](https://github.com/barbarasobrinho/barbarasobrinho/blob/output/github-contribution-grid-snake.svg)
