@@ -9,7 +9,7 @@
 - 📚 I’m currently learning Tailwind CSS & Alpine Js
 - 👩🏻‍💻 Some of my projects are also available at CodePen
 - 🤪 Fun fact: I stream on Twitch 🎮
-- 🎯 2021 Goals: Improve my grades! 🤓
+- 🎯 2022 Goals: Find a nice job! 🤓
 
 <br/>
 
